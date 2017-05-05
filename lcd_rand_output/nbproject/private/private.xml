@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Z:/ece3724/bonus/nfc_uart.c</file>
+            <file>file:/Z:/ece3724/bonus/my_pic24_uart.c</file>
+            <file>file:/Z:/ece3724/bonus/pn532_hsu.c</file>
+            <file>file:/Z:/ece3724/bonus/pn532_hsu.h</file>
+            <file>file:/Z:/ece3724/lib/include/pic24_all.h</file>
+            <file>file:/Z:/ece3724/lib/src/pic24_serial.c</file>
+        </group>
+    </open-files>
+</project-private>

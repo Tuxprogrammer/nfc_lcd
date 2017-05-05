@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/production/lcd_test.X.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>16384</length>
+      <used>72</used>
+      <free>16312</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>124767</length>
+      <used>16167</used>
+      <free>108600</free>
+    </memory>
+  </executable>
+</project>

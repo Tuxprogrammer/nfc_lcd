@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/production/i2c_scanner.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>16384</length>
+      <used>20</used>
+      <free>16364</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>124767</length>
+      <used>13914</used>
+      <free>110853</free>
+    </memory>
+  </executable>
+</project>
